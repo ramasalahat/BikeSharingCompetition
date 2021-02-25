@@ -1,0 +1,2 @@
+# BikeSharingCompetition
+we're using data from https://www.kaggle.com/c/bike-sharing-demand/overview that precisely tracks hourly bike rental data spanning two years for the first 19 days of each month. &lt;br>&lt;br> We're going to do an EDA and feature engineer the data to better fit the following models:  - simple linear regression - ridge regression - k-nn - decision tree  and try to predict future values for the total count of bikes rented during each hour 
